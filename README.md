@@ -1,8 +1,8 @@
-# my_sublime_package
-
 ---
 title: Sublime 3 installed packages
 ---
+
+# my_sublime_package
 
 {
 	"bootstrapped": true,
