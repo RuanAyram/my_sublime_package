@@ -1,9 +1,12 @@
 ---
+h1 : my_sublime_package
 title: Sublime 3 installed packages
+archive: Package Control
+extension: sublime-settings
+full: Package Control.sublime-settings
 ---
 
-# my_sublime_package
-
+```
 {
 	"bootstrapped": true,
 	"in_process_packages":
@@ -27,3 +30,4 @@ title: Sublime 3 installed packages
 		"TypeScript"
 	]
 }
+```
