@@ -1,5 +1,5 @@
 ---
-h1 : my_sublime_package
+name : my_sublime_package
 title: Sublime 3 installed packages
 archive: Package Control
 extension: sublime-settings
